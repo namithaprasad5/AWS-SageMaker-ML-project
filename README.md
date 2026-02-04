@@ -1,6 +1,7 @@
 # AWS-SageMaker-ML-project
 This repository contains an end-to-end Machine Learning workflow built using AWS SageMaker, S3, Boto3, and XGBoost, covering everything from data storage to model deployment and cleanup.
 The project demonstrates how to train, deploy, evaluate, and manage a machine learning model on AWS while following best practices such as versioned data storage and cost control.
+Predict whether a customer will purchase a product based on available input features using a supervised Machine Learning classification model deployed on AWS SageMaker.
 
 Project Overview
 Built and trained an ML model using XGBoost on AWS SageMaker
